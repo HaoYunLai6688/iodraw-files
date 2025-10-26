@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="17acba5748e5396b-1" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="-10" width="1280" height="1020" as="geometry" />
+          <mxGeometry x="-5" y="40" width="1280" height="1020" as="geometry" />
         </mxCell>
         <mxCell id="xMtilw9erzJ7d4nrhMxx-1" value="小票" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="365" y="460" width="120" height="60" as="geometry" />
@@ -42,7 +42,7 @@
         <mxCell id="xMtilw9erzJ7d4nrhMxx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.622;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xMtilw9erzJ7d4nrhMxx-8" target="xMtilw9erzJ7d4nrhMxx-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xMtilw9erzJ7d4nrhMxx-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xMtilw9erzJ7d4nrhMxx-17" value="商品明细" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
