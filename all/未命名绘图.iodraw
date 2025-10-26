@@ -4,8 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xMtilw9erzJ7d4nrhMxx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="17acba5748e5396b-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="17acba5748e5396b-1" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="140" width="1060" height="820" as="geometry" />
+          <mxGeometry y="190" width="1060" height="820" as="geometry" />
         </mxCell>
         <mxCell id="xMtilw9erzJ7d4nrhMxx-1" value="小票" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="365" y="460" width="120" height="60" as="geometry" />
