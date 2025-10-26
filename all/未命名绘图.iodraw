@@ -10,6 +10,9 @@
         <mxCell id="xMtilw9erzJ7d4nrhMxx-19" value="销售订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xMtilw9erzJ7d4nrhMxx-20" value="产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
