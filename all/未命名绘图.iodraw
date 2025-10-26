@@ -19,6 +19,11 @@
         <mxCell id="xMtilw9erzJ7d4nrhMxx-21" value="销售人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="660" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xMtilw9erzJ7d4nrhMxx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=1.056;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xMtilw9erzJ7d4nrhMxx-22" target="xMtilw9erzJ7d4nrhMxx-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xMtilw9erzJ7d4nrhMxx-22" value="客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="660" width="120" height="60" as="geometry" />
         </mxCell>
