@@ -10,6 +10,9 @@
         <mxCell id="xMtilw9erzJ7d4nrhMxx-19" value="销售订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xMtilw9erzJ7d4nrhMxx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xMtilw9erzJ7d4nrhMxx-20" target="xMtilw9erzJ7d4nrhMxx-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xMtilw9erzJ7d4nrhMxx-20" value="产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="460" width="120" height="60" as="geometry" />
         </mxCell>
