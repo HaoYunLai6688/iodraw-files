@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xMtilw9erzJ7d4nrhMxx-18" value="小票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xMtilw9erzJ7d4nrhMxx-19" value="销售订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="410" width="120" height="60" as="geometry" />
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="xMtilw9erzJ7d4nrhMxx-22" value="客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xMtilw9erzJ7d4nrhMxx-23" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="978" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
